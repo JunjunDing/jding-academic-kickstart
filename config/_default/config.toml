@@ -16,7 +16,7 @@ baseurl = "/"
 copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-135846670-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
@@ -65,3 +65,7 @@ preserveTaxonomyNames = true
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+
+# Permalinks.
+[permalinks]
+    post = "/blog/:slug"
