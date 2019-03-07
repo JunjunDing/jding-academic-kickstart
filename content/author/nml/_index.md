@@ -13,7 +13,7 @@ superuser = true
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-# organizations = [ {name="Inamori School of Engineering", url="https://www.alfred.edu/academics/colleges-schools/engineering/index.cfm"}, { name = "New York State College of Ceramics", url = "https://www.alfred.edu/academics/colleges-schools/college-ceramics/index.cfm" }, { name = "Alfred University", url = "https://www.alfred.edu" }  ]
+ organizations = [ {name="Inamori School of Engineering", url="https://www.alfred.edu/academics/colleges-schools/engineering/index.cfm"}, { name = "New York State College of Ceramics", url = "https://www.alfred.edu/academics/colleges-schools/college-ceramics/index.cfm" }, { name = "Alfred University", url = "https://www.alfred.edu" }  ]
 
 # Short bio (displayed in user profile at end of posts)
 # bio = "My research interests include additive manufacturing (3D printing), scalable micro- and nanomanufacturing, composites, and flexible electronics."
