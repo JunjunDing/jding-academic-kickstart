@@ -23,9 +23,10 @@ email = "dingj@alfred.edu"
 
 # List (academic) interests or hobbies
 interests = [
-  "additive manufacturing",
-  "composites",
-  "flexible electronics"
+  "Additive Manufacturing",
+  "Nanocomposites",
+  "Scalable Micro- and Nanomanufacturing",
+  "Flexible Electronics"
 ]
 
 # Organizational groups that you belong to (for People widget)
