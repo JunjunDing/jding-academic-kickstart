@@ -1,0 +1,11 @@
++++
+title = "Polarization storage by two-photon absorption method in diazobenzene/MMA copolymer"
+date = 2008-01-01
+authors = ["Yanlei Hu", "Zhoushun Zhang", "Shuangyan Lei", "Junjun Ding", "Min Xu", "Wenhao Huang", "Qijin Zhang"]
+publication_types = ["1"]
+abstract = "Optically induced molecular orientation by photoisomerization of chromophores has been intensively researched with views of application in photonics. We report a new polarization-encoded data storage method in a diazobenzene/MMA copolymer. Two-photon absorption (TPA) of 4-(2-methacryloyloxyethyl)oxy-4'-(4-nitrophenylazo)azobenzene/MMA copolymer creates a regularly angle variation of molecular orientation via a trans-cis isomerization process and induces birefringence in the sample. This feature is a key for ultrahigh-density optical data storage. The experiment for two-photon recording and reading was carried out by a homemade two-photon scanning microscope developed based on a confocal laser scanning fluoresce microscope. Linearly polarized femtosecond pulsed laser beam with pulse width 80fs, repetition rate 80MHz and wavelength 800nm was used as recording beam. A polarizer and a half-wave plate were used to control the readout beam polarization state. A Ti: sapphire laser at continuous-wave mode was used for readout process. Experimental results of recording and reading data bits with size of 4 microns and interval of 8 microns were presented. An approximatively linearly relationship between excitation power and the readout signal intensity was observed. The great difference between the signals read out by different polarized laser beams provide a multiple-state way to improve storage density."
+featured = false
+publication = "*Proc. of SPIE Vol*"
+tags = [""]
++++
+
