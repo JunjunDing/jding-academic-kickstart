@@ -67,8 +67,7 @@ preserveTaxonomyNames = true
   author = "authors"
 
 [Author]
-  FullName = "Junjun Ding"
-  Email = "dingj@alfred.edu"
+  email = "dingj@alfred.edu"
 
 # Permalinks.
 [permalinks]
