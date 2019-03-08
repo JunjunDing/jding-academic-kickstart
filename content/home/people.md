@@ -1,10 +1,10 @@
 +++
 # People widget.
 widget = "people"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 
 title = "People"
-subtitle = ""
+subtitle = "Group Members"
 
 # Order that this section will appear in.
 weight = 68
