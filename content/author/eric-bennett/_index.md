@@ -23,7 +23,7 @@ email = "BennettE@Corning.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Replacement of silica with glass extracted from dust collection systems to improve strength and to reduce alkali silica reaction in concrete"
+  "Replacement of Silica with Glass Extracted from Dust Collection Systems to Improve Strength and to Reduce Alkali Silica Reaction in Concrete"
 ]
 
 # Organizational groups that you belong to (for People widget)

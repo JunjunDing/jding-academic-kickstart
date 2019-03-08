@@ -23,8 +23,7 @@ email = "ATL2@alfred.edu"
 
 # List (academic) interests or hobbies
 interests = [
-  "Additive Manufacturing",
-  "Bone Scaffold"
+  "Additive Manufacturing of Bioactive Glass for Bone Scaffolds"
 ]
 
 # Organizational groups that you belong to (for People widget)

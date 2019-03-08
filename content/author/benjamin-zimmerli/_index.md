@@ -23,8 +23,7 @@ email = "BRZ3@alfred.edu"
 
 # List (academic) interests or hobbies
 interests = [
-  "Graphene Oxides",
-  "Water filtration"
+  "Ethylenediamine Reduction of Graphene Oxides for Water filtration"
 ]
 
 # Organizational groups that you belong to (for People widget)
