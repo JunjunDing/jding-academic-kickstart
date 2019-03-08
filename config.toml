@@ -66,6 +66,10 @@ preserveTaxonomyNames = true
   publication_type = "publication_types"
   author = "authors"
 
+[Author]
+  FullName = "Junjun Ding"
+  Email = "dingj@alfred.edu"
+
 # Permalinks.
 [permalinks]
     post = "/blog/:slug"
