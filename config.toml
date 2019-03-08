@@ -70,5 +70,5 @@ preserveTaxonomyNames = true
   email = "dingj@alfred.edu"
 
 # Permalinks.
-[permalinks]
-    post = "/blog/:slug"
+#[permalinks]
+#    post = "/blog/:slug"
