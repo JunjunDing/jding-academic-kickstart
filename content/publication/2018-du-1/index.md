@@ -14,6 +14,7 @@ authors = ["Ke Du", "Ishan Wathuthanthri", "Junjun Ding", "Chang-Hwan Choi"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
+# 7 = Patent
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
