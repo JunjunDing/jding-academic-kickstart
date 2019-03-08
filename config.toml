@@ -70,9 +70,6 @@ preserveTaxonomyNames = true
   FullName = "Junjun Ding"
   Email = "dingj@alfred.edu"
 
-[context.deploy-preview.environment]
-HUGO_VERSION = "0.25"
-
 # Permalinks.
 [permalinks]
     post = "/blog/:slug"
