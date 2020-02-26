@@ -13,7 +13,7 @@ baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "Ding Research Group"
+copyright = "© Ding Research Group"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-135846670-1"

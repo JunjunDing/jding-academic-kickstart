@@ -9,7 +9,7 @@ authors = ["benjamin-zimmerli"]
 superuser = false
 
 # Role/position
-role = "Undergrad Student, Senior"
+role = "MS Student, 20 Spring"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -28,7 +28,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Undergrad Students"]
+user_groups = ["Researchers", "Grad Students", "Alumni"]
 
 # List qualifications (such as academic degrees)
 
