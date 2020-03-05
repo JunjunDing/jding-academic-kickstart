@@ -20,7 +20,11 @@ A good basic introduction could be found in the following link:
 
 https://www.3dhubs.com/knowledge-base/additive-manufacturing-technologies-overview
 
-Currently, we are working on 3D printing techniques including 
+Currently, we are working on 3D printing techniques including:
+
 * **material extrusion 3D printing (ME3DP)** 
+
 * **stereolithography (SLA)**
+
 * **binder jetting (BJ)**
+
