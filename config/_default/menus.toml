@@ -24,7 +24,7 @@
   weight = 30
 
 #[[main]]
-  name = "Tutorials"
+  name = "Tutorial"
   url = "/tutorial/"
   weight = 50
 
