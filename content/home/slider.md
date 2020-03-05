@@ -1,7 +1,7 @@
 +++
 # Slider widget.
 widget = "slider"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 
 # Order that this section will appear in.
 weight = 25
@@ -24,7 +24,7 @@ height = "700px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   # overlay_color = "#666"  # An HTML color value.
-  overlay_img = "/slider/research00_resize-1024x768.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "/slider/research00_resize.jpg"  # Image path relative to your `static/img/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
