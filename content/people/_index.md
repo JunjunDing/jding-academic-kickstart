@@ -3,7 +3,8 @@
 
 title = "Group Members"
 
-view = 3
+widget = true
+view = 4
 +++
 We are looking for highly motivated graduate students and undergraduate students to join the group.
 
