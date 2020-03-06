@@ -3,6 +3,7 @@
 
 title = "Group Members"
 
+view = 3
 +++
 We are looking for highly motivated graduate students and undergraduate students to join the group.
 
@@ -29,6 +30,7 @@ Current research interest focuses on additive manufacturing (AM) and the applica
 We have a few spaces available for undergraduates. We welcome highly motivated undergraduate students to join our group as a research intern.
 
 Senior thesis topics available. 
+
 Summer research projects available. 
 
 * Visiting Students and Scholars
