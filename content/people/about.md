@@ -2,12 +2,9 @@
 # About/Biography widget.
 widget = "about"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear in.
+weight = 1  # Order that this section will appear in.
 
 title = "Welcome to join us"
-
-# Choose the user profile to display
-# This should be the username of a profile in your `content/author/` folder.
 +++
 We are looking for highly motivated graduate students and undergraduate students to join the group.
 
