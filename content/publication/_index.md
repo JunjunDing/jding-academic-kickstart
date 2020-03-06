@@ -1,5 +1,3 @@
-Please feel free to contact me if you do not have access to the full-text of these publications.
-
 +++
 title = "Publications"
 
@@ -15,3 +13,4 @@ view = 4
 image = ""
 caption = ""
 +++
+Please feel free to contact me if you do not have access to the full-text of these publications.
