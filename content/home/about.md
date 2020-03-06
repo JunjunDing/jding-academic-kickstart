@@ -10,9 +10,6 @@ title = "Who are we?"
 # This should be the username of a profile in your `content/author/` folder.
 author = "nml"
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = "images/group-may-2019.jpg"
-caption = ""
+
 +++
 
