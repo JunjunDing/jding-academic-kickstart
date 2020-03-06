@@ -4,13 +4,8 @@
 title = "Group Members"
 widgets =true
 
-
-  image = "images/group-may-2019.jpg"
-  caption = "First group photo. From left to right: Junjun Ding, Chao Liu, Ashley Lenau, Ben Zimmerli, Andrew King, Yuqi Gao. Not on photo: Phillip Kurtis, Tyler Ford. May 2019"
-  
 view = 4
 +++
-
 We are looking for highly motivated graduate students and undergraduate students to join the group.
 
 * **Materials Science and Engineering Graduate Program **
