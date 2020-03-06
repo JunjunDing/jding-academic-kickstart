@@ -11,6 +11,6 @@ view = 4
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "group-may-2019.jpg"
+image = "group2019.png"
 caption = "First group photo. From left to right: Junjun Ding, Chao Liu, Ashley Lenau, Ben Zimmerli, Andrew King, Yuqi Gao. Not on photo: Phillip Kurtis, Tyler Ford. May 2019"
 +++
