@@ -1,5 +1,6 @@
 +++
 title = "People"
+widget = true
 
 # View.
 #   1 = List
@@ -7,8 +8,6 @@ title = "People"
 #   3 = Card
 #   4 = Citation
 view = 4
-
-widget = true
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
